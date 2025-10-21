@@ -1,0 +1,1 @@
+//= require noty/noty.js
